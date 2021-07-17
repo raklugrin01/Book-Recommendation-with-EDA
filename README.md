@@ -17,7 +17,6 @@ Whole code below is in Python using various libraries. Open source library Scipy
   1. Exploratory Data Analysis
   2. Different ways of building Recommendation system 
   3. Model and flask Api 
-  4. Refrences
 
 # Resources Used
   
@@ -117,9 +116,10 @@ Whole code below is in Python using various libraries. Open source library Scipy
     
     <img src="https://user-images.githubusercontent.com/60045850/126040732-4036966a-47ce-4654-86f6-9766269c078e.png" alt="Target Variable" width="900" height="450" />
  
- ## 4. Refrences
+ ## Refrences
  
  - [About Recommendation Systems](https://medium.com/@chhavi.saluja1401/recommendation-systems-made-simple-b5a79cac8862)
  - [Turning Model into an Api](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
  - [Algorithms](https://www.researchgate.net/post/which_Algorithm_is_best_for_book_recommendation_system)
-      
+ 
+ Please do ⭐ the repository, if it helped you in anyway.
