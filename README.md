@@ -70,7 +70,7 @@ Whole code below is in Python using various libraries. Open source library Scipy
 
       - Memory-based/ Neighborhood-based
   
-          Memory Based recommendation systems can again be divided into two categories i.e. [User Based](https://www.geeksforgeeks.org/user-based-collaborative-filtering/#:~:text=User%2DBased%20Collaborative%20Filtering%20is,for%20building%20their%20recommendation%20system.) and [Item Based](https://www.geeksforgeeks.org/item-to-item-based-collaborative-filtering/) which  can  easily be implemented using similarity measure like [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity), [Pearson similarity](https://neo4j.com/docs/graph-data-science/current/alpha-algorithms/pearson/) are used to find most similar items     according to the Data
+          Memory Based recommendation systems can again be divided into two categories i.e. [User Based](https://www.geeksforgeeks.org/user-based-collaborative-filtering/#:~:text=User%2DBased%20Collaborative%20Filtering%20is,for%20building%20their%20recommendation%20system.) and [Item Based](https://www.geeksforgeeks.org/item-to-item-based-collaborative-filtering/) which  can  easily be implemented using similarity measure like [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity), [Pearson similarity](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) are used to find most similar items     according to the Data
 
       - Model-based/Matrix Factorization
 
